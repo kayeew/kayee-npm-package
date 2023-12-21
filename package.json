@@ -1,0 +1,22 @@
+{
+  "name": "@kayeew/npm-package",
+  "version": "1.0.0",
+  "description": "Kayee's npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayeew/kayee-npm-package.git"
+  },
+  "keywords": [
+    "kayeew"
+  ],
+  "author": "kayeew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayeew/kayee-npm-package/issues"
+  },
+  "homepage": "https://github.com/kayeew/kayee-npm-package#readme"
+}
